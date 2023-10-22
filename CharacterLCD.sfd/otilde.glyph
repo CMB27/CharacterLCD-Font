@@ -1,6 +1,6 @@
 StartChar: otilde
-Encoding: 245 245 245
-Width: 625
+Encoding: 252 245 252
+Width: 5
 Flags: W
 LayerCount: 2
 EndChar
